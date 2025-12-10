@@ -1,8 +1,8 @@
 # ✨ Muhammad Hassan — Principal Software Engineer
-### Full-Stack | Backend | Cloud | DevOps | AI Systems | Scalable Architecture
+### Full-Stack | Backend & Cloud & DevOps | AI Systems | Scalable Architecture
 
 Hi there! 👋  
-I'm **Muhammad Hassan**, a Principal Software Engineer based in **Kuala Lumpur, Malaysia**, with experience in **full-stack development**, **real-time distributed systems**, **cloud architecture**, **AI automation**, and **DevOps**.
+I'm **Muhammad Hassan**, a Principal Software Engineer, with experience in **full-stack development**, **real-time distributed systems**, **cloud architecture**, **AI automation**, and **DevOps**.
 
 I build scalable, reliable, production-ready systems that solve real business challenges.
 
@@ -20,45 +20,10 @@ I build scalable, reliable, production-ready systems that solve real business ch
 
 ---
 
-## 💼 Experience
-
-### **👨‍💼 Principal Software Engineer — EraTech (2024)**
-- Architected scalable systems with offline-first capability  
-- Designed **QSR LAN applications** with device-syncing  
-- Implemented clean architecture in **.NET, PHP & Flutter**  
-- Built real-time sync using **Sockets, SQLite, MS SQL, SignalR**
-
----
-
-### **🛰 Senior Software Engineer — Technets Enterprises (2023–2024)**
-- Built full SaaS platforms with **Laravel, Symfony, Angular, Vue**
-- Developed microservices using **FastAPI, SQLAlchemy, Kafka, Redis**
-- Integrated **PostGIS** for geolocation + real-time pipelines
-- Implemented **CI/CD** (Jenkins, GitHub Actions, Bitbucket)
-- Delivered enterprise integrations (PowerBI, OpenAI, AWS, GCP)
-- Built and monitored production systems using **Prometheus & Grafana**
-
----
-
-### **🌐 Full Stack Developer — Sublime Logics (2021–2022)**
-- Delivered systems using **Laravel, React, Vue, NodeJS**
-- Built authentication with **OAuth2, OpenID Connect, JWT, Auth0, Keycloak**
-- Managed AWS infrastructure (EC2, Redis, Nginx, Ubuntu)
-- SEO, scraping automation, uptime monitoring, and deployments
-
----
-
-### **🤖 AI Engineer — Prismatic Insight LTD**
-- Built **AI generative systems & automation workflows**
-- Used **Golang, Flutter, RAG, ComfyUI, n8n, Airtable, OpenAI, Gemini**
-- Created AI agents, workflow automations, and video automation systems
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
-`Golang` · `Python` · `Dart` · `Typescript` · `PHP` · `JavaScript` · `SQL` · `C#`
+`Golang` · `Python` · `Dart` · `JavaScript/Typescript` · `PHP` · `SQL` · `C#`
 
 ### **Frameworks**
 `Laravel` · `Symfony` · `FastAPI` · `Flask`  
@@ -93,21 +58,13 @@ I build scalable, reliable, production-ready systems that solve real business ch
 
 ---
 
-## 🎓 Education & Certifications
-- **B.Sc. Computer Science — Gift University (2021–2024)**
+## 🎓 Extra Certifications
 - **Graphic Design Theory**
 - **AWS CLF-C02**
 - **Agile Scrum Master**
 - **Jira Confluence Bootcamp**
 - **System Architect**
 - **DevOps Practices**
-
----
-
-## 📫 Contact
-📧 **muhammadhassan00dev@gmail.com**  
-🌍 **https://hassan00dev.github.io**  
-📍 Kuala Lumpur, Malaysia
 
 ---
 
