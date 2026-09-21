@@ -295,19 +295,6 @@ flowchart TD
 
 ---
 
-<details>
-<summary><b>📈 GitHub Activity</b></summary>
-
-<br>
-
-![Muhammad Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan00dev&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan00dev&layout=compact&theme=transparent&hide_border=true)
-
-</details>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in difficult engineering problems involving **backend systems, distributed architecture, cloud infrastructure, data, automation, and applied AI**.
