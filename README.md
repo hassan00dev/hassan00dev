@@ -197,36 +197,35 @@ test so the same class of failure doesn't quietly return.
 
 ```mermaid
 flowchart TD
-    A["🎯 Understand the Problem"] --> B["🧩 Choose the Simplest Reliable Solution"]
-
+    A["Understand the Problem"] --> B["Choose the Simplest Reliable Solution"]
     B --> C{"Does this require AI?"}
 
-    C -->|"No"| D["⚙️ Deterministic Engineering"]
-    C -->|"Yes"| E["🤖 Applied AI"]
+    C -->|No| D["Deterministic Engineering"]
+    C -->|Yes| E["Applied AI"]
 
-    D --> F["Business Rules • Validation • Security • Critical Logic"]
-    E --> G["Reasoning • Generation • Retrieval • Automation"]
+    D --> F["Rules, Validation, Security, Critical Logic"]
+    E --> G["Reasoning, Generation, Retrieval, Automation"]
 
-    F --> H["🧪 Test & Validate"]
+    F --> H["Test and Validate"]
     G --> H
 
-    H --> I["🚀 Deploy"]
-    I --> J["📊 Observe & Measure"]
-    J --> K["🔁 Learn & Improve"]
-
+    H --> I["Deploy"]
+    I --> J["Observe and Measure"]
+    J --> K["Learn and Improve"]
     K --> B
 ```
 
 ### Core Principles
 
 - **Solve the problem before choosing the technology**
-- **Simple and reliable beats unnecessarily clever**
+- **Simple and reliable beats unnecessarily complex**
 - **Deterministic logic > AI when correctness matters**
 - **AI should earn its place in the architecture**
-- **Security, testing, and observability are part of the system**
-- **Prototype quickly — productionize carefully**
+- **Test behavior, not implementation details**
+- **Security is a requirement, not an afterthought**
+- **Observability is part of the system**
+- **Prototype quickly. Productionize carefully.**
 - **Optimize from evidence, not assumptions**
-- **Build reusable capabilities, not permanent one-off hacks**
 - **Own the outcome, not just the ticket**
 
 ------------------------------------------------------------------------
